@@ -6,7 +6,7 @@ $city = 'Dallas';
 $about = 'Hanna was born in Belarus. She moved to USA a few years back. Now she is studying PHP at Netology.';
 ?>
 
-!DOCTYPE html
+<!DOCTYPE html>
 <html lang="en">
   <head>
     <meta charset="utf-8">
