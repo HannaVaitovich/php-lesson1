@@ -13,6 +13,11 @@ $about = 'Hanna was born in Belarus. She moved to USA a few years back. Now she 
     <title>PHP Lesson 1</title>
   </head>
   <body>
+    <style>
+      td {
+        padding: 10px 20px;
+      }
+    </style>
   <h1> User page for <?php echo $name; ?></h1>
     <table>
       <tr>
